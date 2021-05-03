@@ -37,4 +37,7 @@ function campoNombre(){
 	$mensajeErrorEntrada = "Debe contener solo letras";
 }
 
+
+/*-----Nombre del autor de este documento----*/
+echo '<p>Autor: Jose Fernandez Silva</p>'
 ?>
